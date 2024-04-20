@@ -23,6 +23,9 @@ cargo test
 ![Example3 Screenshot](screenshot2.png)
 ![Example4 Screenshot](screenshot3.png)
 
+The outputs:
+![Example1 Screenshot](screenshot5.png)
+
 ### Examples
 Here are example code snippets:
 
