@@ -25,7 +25,3 @@ Run the code:
 ```
 
 ### Examples
-
-### License
-This library is distributed under the terms of the Apache License, Version 2.0. Refer to the LICENSE file for more details.
-For additional information and detailed usage examples, consult the documentation.
